@@ -1,0 +1,5 @@
+outs:
+- md5: 3a4198e901601d22f8884a523f8ece59
+  size: 13
+  hash: md5
+  path: sample.txt
